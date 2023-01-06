@@ -118,3 +118,11 @@ section{
 .section-2 h2{
     margin-bottom: 30px;
 }
+footer{
+    background: black;
+    padding: 100px;
+}
+.footer-container{
+    color: white;
+    text-align: center;
+}
